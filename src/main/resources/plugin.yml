@@ -1,0 +1,5 @@
+name: Maestro
+version: 1.0-SNAPSHOT
+author: Clay Willie (VizionTechIT)
+
+main: com.viziontechit.maestro.Maestro
